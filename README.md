@@ -51,6 +51,15 @@ In your `app/assets/stylesheets/application.scss`, add the following:
  */
 ```
 
+In your `app/assets/javascripts/application.js`, add the following:
+
+```
+/*
+ * = require vendor/jquery-1.11.3.min.js
+ * = require components.js
+ */
+```
+
 ## Development
 
 First, choose a Jekyll site you'd like to use to view the impact of your
