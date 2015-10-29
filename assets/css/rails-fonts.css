@@ -1,0 +1,102 @@
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 300;
+    src: url('/assets/sourcesanspro-light-webfont.eot');
+    src: url('/assets/sourcesanspro-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/sourcesanspro-light-webfont.woff2') format('woff2'),
+         url('/assets/sourcesanspro-light-webfont.woff') format('woff'),
+         url('/assets/sourcesanspro-light-webfont.ttf') format('truetype'),
+         url('/assets/sourcesanspro-light-webfont.svg#source_sans_prolight') format('svg');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+  	font-weight: 400;
+    src: url('/assets/sourcesanspro-regular-webfont.eot');
+    src: url('/assets/sourcesanspro-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/sourcesanspro-regular-webfont.woff2') format('woff2'),
+         url('/assets/sourcesanspro-regular-webfont.woff') format('woff'),
+         url('/assets/sourcesanspro-regular-webfont.ttf') format('truetype'),
+         url('/assets/sourcesanspro-regular-webfont.svg#source_sans_proregular') format('svg');
+
+}
+
+@font-face {  
+    font-family: 'Source Sans Pro';
+    font-style: italic;          
+    font-weight: 400;
+    src: url('/assets/sourcesanspro-italic-webfont.eot');
+    src: url('/assets/sourcesanspro-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/sourcesanspro-italic-webfont.woff2') format('woff2'),
+         url('/assets/sourcesanspro-italic-webfont.woff') format('woff'),
+         url('/assets/sourcesanspro-italic-webfont.ttf') format('truetype'),
+         url('/assets/sourcesanspro-italic-webfont.svg#source_sans_proitalic') format('svg');
+
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    src: url('/assets/sourcesanspro-bold-webfont.eot');
+    src: url('/assets/sourcesanspro-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/sourcesanspro-bold-webfont.woff2') format('woff2'),
+         url('/assets/sourcesanspro-bold-webfont.woff') format('woff'),
+         url('/assets/sourcesanspro-bold-webfont.ttf') format('truetype'),
+         url('/assets/sourcesanspro-bold-webfont.svg#source_sans_probold') format('svg');
+
+}
+
+@font-face {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 300;
+    src: url('/assets/merriweather-light-webfont.eot');
+    src: url('/assets/merriweather-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/merriweather-light-webfont.woff2') format('woff2'),
+         url('/assets/merriweather-light-webfont.woff') format('woff'),
+         url('/assets/merriweather-light-webfont.ttf') format('truetype'),
+         url('/assets/merriweather-light-webfont.svg#source_sans_proregular') format('svg');
+
+}
+
+@font-face {  
+    font-family: 'Merriweather';
+    font-style: normal;          
+    font-weight: 400;
+    src: url('/assets/merriweather-regular-webfont.eot');
+    src: url('/assets/merriweather-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/merriweather-regular-webfont.woff2') format('woff2'),
+         url('/assets/merriweather-regular-webfont.woff') format('woff'),
+         url('/assets/merriweather-regular-webfont.ttf') format('truetype'),
+         url('/assets/merriweather-regular-webfont.svg#source_sans_proitalic') format('svg');
+
+}
+
+@font-face {  
+    font-family: 'Merriweather';
+    font-style: italic;          
+    font-weight: 400;
+    src: url('/assets/merriweather-italic-webfont.eot');
+    src: url('/assets/merriweather-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/merriweather-italic-webfont.woff2') format('woff2'),
+         url('/assets/merriweather-italic-webfont.woff') format('woff'),
+         url('/assets/merriweather-italic-webfont.ttf') format('truetype'),
+         url('/assets/merriweather-italic-webfont.svg#source_sans_proitalic') format('svg');
+
+}
+
+@font-face {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    src: url('/assets/merriweather-bold-webfont.eot');
+    src: url('/assets/merriweather-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/assets/merriweather-bold-webfont.woff2') format('woff2'),
+         url('/assets/merriweather-bold-webfont.woff') format('woff'),
+         url('/assets/merriweather-bold-webfont.ttf') format('truetype'),
+         url('/assets/merriweather-bold-webfont.svg#source_sans_probold') format('svg');
+
+}
