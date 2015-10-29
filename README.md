@@ -60,6 +60,9 @@ In your `app/assets/javascripts/application.js`, add the following:
  */
 ```
 
+_Note: Image links currently don't work. We'll work with
+18F/web-design-standards on a solution for this._
+
 ## Development
 
 First, choose a Jekyll site you'd like to use to view the impact of your
