@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.homepage      = 'https://github.com/18F/us_web_design_standards_gem'
   s.license       = 'CC0'
 
-  s.files         = `git ls-files -z *.md lib assets`.split("\x0")
+  s.files         = `git ls-files -z *.md lib assets app`.split("\x0")
   s.executables   = s.files.grep(%r{^bin/}) { |f| File.basename f }
 
   s.add_runtime_dependency 'sass', '~> 3.4'
