@@ -28,16 +28,16 @@ $accordion-border: 3px solid $color-gray-lightest;
   }
 
   button[aria-expanded=false] {
-    background-image: url('../img/plus.png');
-    background-image: url('../img/plus.svg');
+    background-image: url('/assets/plus.png');
+    background-image: url('/assets/plus.svg');
     background-repeat: no-repeat;
     background-size: 1.3rem;
   }
 
   button {
     background-color: $color-gray-lightest;
-    background-image: url('../img/minus.png');
-    background-image: url('../img/minus.svg');
+    background-image: url('/assets/minus.png');
+    background-image: url('/assets/minus.svg');
     background-position: right 3rem center;
     background-repeat: no-repeat;
     background-size: 13px;
