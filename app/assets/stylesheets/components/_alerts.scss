@@ -51,26 +51,26 @@
 
 .usa-alert-success {
   background-color: #E5FCDE;
-  background-image: url('../img/alerts/success.png');  
-  background-image: url('../img/alerts/success.svg');  
+  background-image: image-url('alerts/success.png');  
+  background-image: image-url('alerts/success.svg');  
 }
 
 .usa-alert-warning {
   background-color: #FDF7DC;
-  background-image: url('../img/alerts/warning.png');  
-  background-image: url('../img/alerts/warning.svg');   
+  background-image: image-url('alerts/warning.png');  
+  background-image: image-url('/alerts/warning.svg');   
 }
 
 .usa-alert-error {
   background-color: #F9DEDE;
-  background-image: url('../img/alerts/error.png');  
-  background-image: url('../img/alerts/error.svg');   
+  background-image: image-url('alerts/error.png');  
+  background-image: image-url('alerts/error.svg');   
 }
 
 .usa-alert-info {
   background-color: #E8F5FA;
-  background-image: url('../img/alerts/info.png');  
-  background-image: url('../img/alerts/info.svg');   
+  background-image: image-url('alerts/info.png');  
+  background-image: image-url('alerts/info.svg');   
 }
 
 .usa-alert-no_icon {
