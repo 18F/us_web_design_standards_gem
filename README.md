@@ -45,10 +45,8 @@ gem 'us_web_design_standards'
 In your `app/assets/stylesheets/application.scss`, add the following:
 
 ```
-/*
- * = require us_web_design_standards
- * = require us_web_design_standards_fonts
- */
+@import "us_web_design_standards";
+@import "us_web_design_standards_fonts";
 ```
 
 In your `app/assets/javascripts/application.js`, add the following:
