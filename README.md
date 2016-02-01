@@ -78,7 +78,7 @@ In the `Gemfile` of the Jekyll site's repository, include the following:
 
 ```ruby
 group :jekyll_plugins do
-  gem 'us_web_design_standards_gem', :path => '../us_web_design_standards_gem'
+  gem 'us_web_design_standards', :path => '../us_web_design_standards_gem'
 end
 ```
 
