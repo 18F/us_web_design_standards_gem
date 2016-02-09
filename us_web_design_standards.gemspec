@@ -6,8 +6,8 @@ require 'us_web_design_standards/version'
 Gem::Specification.new do |s|
   s.name          = 'us_web_design_standards'
   s.version       = USWebDesignStandards::VERSION
-  s.authors       = ['Mike Bland']
-  s.email         = ['michael.bland@gsa.gov']
+  s.authors       = ['Mike Bland', 'Roger Steve Ruiz']
+  s.email         = ['michael.bland@gsa.gov', 'roger.ruiz@gsa.gov']
   s.summary       = 'U.S. Web Design Standards assets'
   s.description   = (
     'Packages the U.S. Web Design Standards assets as a Ruby Gem for use in ' \
