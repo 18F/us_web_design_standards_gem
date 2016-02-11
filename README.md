@@ -60,8 +60,15 @@ In your `app/assets/javascripts/application.js`, add the following:
  */
 ```
 
-_Note: Image links currently don't work. We'll work with
-18F/web-design-standards on a solution for this._
+Rails should automatically compile the images included within the
+assets, but if there are issues where it is unable to find images, you
+might need to explicitly add the images_path to the asset pipeline
+configuration (likely found in `config/initializers/asset.rb`) to
+include something like this:
+
+``` ruby
+Rails.application.config.assets.paths << USWebDesignStandards::Assets.images_path
+```
 
 ## Development
 
