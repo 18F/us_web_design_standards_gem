@@ -9,7 +9,8 @@ Other frameworks may be supported in the future.
 
 ## Usage
 
-This gem is compatible with both Jekyll and Rails.
+This gem is compatible with Jekyll. If you are looking for a Ruby on Rails
+version, please see [the USWDS Rails gem](https://github.com/18F/uswds-rails-gem).
 
 ### Jekyll
 
@@ -33,35 +34,6 @@ choosing that contains at least the following:
 
 Integrate the generated `uswds.css` file and its styles into your project's
 layouts and templates, build the site per usual, and observe the results.
-
-### Rails
-
-In your [`Gemfile`](http://bundler.io/gemfile.html), include the following:
-
-```ruby
-gem 'us_web_design_standards'
-```
-
-In your `app/assets/stylesheets/application.scss`, add the following:
-
-```
-/*
- * = require us_web_design_standards
- * = require us_web_design_standards_fonts
- */
-```
-
-In your `app/assets/javascripts/application.js`, add the following:
-
-```
-/*
- * = require vendor/jquery-1.11.3.min.js
- * = require components.js
- */
-```
-
-_Note: Image links currently don't work. We'll work with
-18F/web-design-standards on a solution for this._
 
 ## Development
 
