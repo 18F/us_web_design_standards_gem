@@ -1,3 +1,5 @@
+**This `gem` has been deprecated.**
+
 # [`us_web_design_standards`](https://rubygems.org/gems/us_web_design_standards): U.S. Web Design Standards style assets gem
 
 Provides the style assets from the [U.S. Web Design
